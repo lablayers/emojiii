@@ -6,21 +6,21 @@ An open-source, cross-platform WordPress plugin that allow you to use Apple Colo
 Cheat sheet: http://viclou.github.com/emojiii
 
 Installation
-=================
+=======
 
 Download the .zip file and upload it to your wp-content/themes
 
 Changelog
-=================
+=======
 
 ...
 
 Roadmap
-=================
-
+=======
 ...
 
+
 Credits
-=================
+=======
 
 Test
